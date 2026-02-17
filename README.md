@@ -3,6 +3,13 @@ This repository contains my Make automation projects built to streamline workflo
 
 ---
 
+## 📂 Project Navigation
+
+- [Project 1: Automating Xero Report Delivery to ASANA](#project-1-automating-xero-report-(csv)-delivery-to-asana)
+- [Project 2: Auto Sort Gmail attachments on Drive](#project-2-auto-sort-gmail-attachments-on-drive)
+---
+
+
 ## Projects
 ### Project 1: Automating Xero Report (CSV) Delivery to ASANA
 This Make scenario automates reporting between Asana, Xero, and Google Sheets. When a task is marked completed in Asana, the scenario collects the related report data from Xero via API, extracts and logs it into Google Sheets, then converts the updated sheet into a CSV file. The CSV file is uploaded back to the completed Asana task as an attachment, and finally, the spreadsheet data is cleared to reset the system for the next run.
@@ -39,7 +46,7 @@ This Make scenario automates reporting between Asana, Xero, and Google Sheets. W
 ---
 <br>
 
-###  Auto Sort Gmail Attachments on Drive
+###  Project 2: Auto Sort Gmail Attachments on Drive
 This workflow monitors Gmail for incoming attachments, uses AI to analyze and intelligently rename files based on their content, automatically stores them in organized Google Drive folders, logs activity in Google Sheets, and sends summary notifications—improving document management accuracy and efficiency.
 
 ### Full Workflow Overview
