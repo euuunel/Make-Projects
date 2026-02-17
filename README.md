@@ -10,4 +10,8 @@ This Make scenario automates reporting between Asana, Xero, and Google Sheets. W
 #### Workflow Screenshots
 
 - Full Workflow Overview
-- ![Workflow Overview](Make_Portfolio/1_Automating_Xero_Report_Delivery_to_ASANA/Make_Scenario.png)
+- ![Workflow Overview](Make_Portfolio/1_Automating_Xero_Report_Delivery_to_ASANA/Make_scenario.png)
+
+
+
+![Workflow Overview](Make_Portfolio/1_Automating_Xero_Report_Delivery_to_ASANA/Make_scenario.png)
