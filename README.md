@@ -11,6 +11,7 @@ This repository contains my Make automation projects built to streamline workflo
 
 
 ## Projects
+
 ### Project 1: Automating Xero Report Delivery to ASANA
 This Make scenario automates reporting between Asana, Xero, and Google Sheets. When a task is marked completed in Asana, the scenario collects the related report data from Xero via API, extracts and logs it into Google Sheets, then converts the updated sheet into a CSV file. The CSV file is uploaded back to the completed Asana task as an attachment, and finally, the spreadsheet data is cleared to reset the system for the next run.
 
